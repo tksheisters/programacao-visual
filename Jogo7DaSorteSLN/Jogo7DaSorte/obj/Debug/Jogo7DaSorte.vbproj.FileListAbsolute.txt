@@ -1,0 +1,13 @@
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\bin\Debug\Jogo7DaSorte.exe.config
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\bin\Debug\Jogo7DaSorte.exe
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\bin\Debug\Jogo7DaSorte.pdb
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\bin\Debug\Jogo7DaSorte.xml
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\obj\Debug\Jogo7DaSorte.vbproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\obj\Debug\Jogo7DaSorte.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\obj\Debug\Jogo7DaSorte.Form1.resources
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\obj\Debug\Jogo7DaSorte.Resources.resources
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\obj\Debug\Jogo7DaSorte.vbproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\obj\Debug\Jogo7DaSorte.vbproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\obj\Debug\Jogo7DaSorte.exe
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\obj\Debug\Jogo7DaSorte.xml
+C:\Users\Matheus\source\repos\Jogo7DaSorteSLN\Jogo7DaSorte\obj\Debug\Jogo7DaSorte.pdb
